@@ -1,0 +1,7 @@
+C:\Users\Nemanja Djordjevic\source\repos\LINQstudentDetails\LINQstudentDetails\bin\Debug\LINQstudentDetails.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\LINQstudentDetails\LINQstudentDetails\bin\Debug\LINQstudentDetails.exe
+C:\Users\Nemanja Djordjevic\source\repos\LINQstudentDetails\LINQstudentDetails\bin\Debug\LINQstudentDetails.pdb
+C:\Users\Nemanja Djordjevic\source\repos\LINQstudentDetails\LINQstudentDetails\obj\Debug\LINQstudentDetails.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\LINQstudentDetails\LINQstudentDetails\obj\Debug\LINQstudentDetails.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\LINQstudentDetails\LINQstudentDetails\obj\Debug\LINQstudentDetails.exe
+C:\Users\Nemanja Djordjevic\source\repos\LINQstudentDetails\LINQstudentDetails\obj\Debug\LINQstudentDetails.pdb
